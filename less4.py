@@ -12,3 +12,4 @@ class Encryptor:
 encryptor = Encryptor(10)
 result = encryptor.process()
 print(f"Оброблений результат {result}")
+
